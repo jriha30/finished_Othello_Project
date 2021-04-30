@@ -1,0 +1,24 @@
+D:\New Downloads\CSC370_OthelloProject-master\Othello\bin\Debug\Othello.exe.config
+D:\New Downloads\CSC370_OthelloProject-master\Othello\bin\Debug\Othello.exe
+D:\New Downloads\CSC370_OthelloProject-master\Othello\bin\Debug\Othello.pdb
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.Form1.resources
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.Form2.resources
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.Properties.Resources.resources
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.csproj.GenerateResource.cache
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.exe
+D:\New Downloads\CSC370_OthelloProject-master\Othello\obj\Debug\Othello.pdb
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\bin\Debug\Othello.exe.config
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\bin\Debug\Othello.exe
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\bin\Debug\Othello.pdb
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.csprojAssemblyReference.cache
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.Form1.resources
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.Form2.resources
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.Properties.Resources.resources
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.csproj.GenerateResource.cache
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.csproj.CoreCompileInputs.cache
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.exe
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.pdb
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.Form3.resources
+C:\Users\super\source\repos\CSC370_OthelloProject\Othello\obj\Debug\Othello.Form4.resources
